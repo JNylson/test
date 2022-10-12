@@ -6,3 +6,4 @@ test repository
 - Other line added on nano
 - Added on 610m
 - Added on G520m
+- Line added on Vim in tvbox
